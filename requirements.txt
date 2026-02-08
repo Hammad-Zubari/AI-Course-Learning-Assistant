@@ -1,0 +1,23 @@
+
+python-dotenv==1.0.0
+
+# Core ML / AI libraries
+numpy==1.26.4
+torch==2.2.0
+transformers==4.40.0
+sentence-transformers==2.6.1
+faiss-cpu==1.9.0.post1
+tiktoken==0.5.2
+pypdf==3.17.4
+
+# LangChain and Grok integration
+langchain
+langchain-core
+langchain-community
+langchain-groq
+
+# Web / App
+streamlit==1.29.0
+
+# Grok/OpenAI API
+openai==1.7.2
